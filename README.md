@@ -13,7 +13,7 @@
 `$ docker-compose build`
 
 ## Environment settings
-`$ cp .env-example .env`
+`$ touch .env`
 
 ## Running the tests
 1. Start the selenium container:
